@@ -1,0 +1,1 @@
+aqui precisam das 3 libs
