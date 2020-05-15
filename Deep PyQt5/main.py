@@ -79,7 +79,7 @@ if __name__ == '__main__':
             print(fileName)
 
     def imageur():
-        CLIENT_ID = "ebfc2558bda96e5"
+        CLIENT_ID = "sua cliente id do imageur"
         PATH1 = 'images/renderizada.jpg'
         PATH2 = imagem_recebida[0]
         im = pyimgur.Imgur(CLIENT_ID)
