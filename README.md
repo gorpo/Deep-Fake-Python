@@ -9,6 +9,7 @@
        <h2 align="center">Manicomio | Python Deep Fake| Deep Learning</h2>
   </h6>
 <h3> Programa de manipulação de imagens com OpenCV, Torch, Torchvision, Numpy e Pillow.</h3><br>
+<img src="https://raw.githubusercontent.com/gorpo/Deep-Fake-Python/master/Programa_Deepfake_v1/deepnude_pyqt5/images/example.jpg" width="100%"></img>
 
 <p>Sistema de manipulação de imagem que cria imagens *** seguindo um padrão especifico, pois faz a leitura e treinamento com arquivos .lib, os quais devem ser feitos o download e inseridos posteriormente na pasta /checkpoints.</p>
 
