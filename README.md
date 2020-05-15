@@ -20,6 +20,8 @@
 - Torchvision
 - Numpy
 - Pyllow
+- PyQt5
+- outras lib's ver arquivos ou logs de erro
 
 # Instalações previas das libs que cumprem os requisitos para windows10:
 --> Torch:<br>
