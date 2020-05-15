@@ -5,7 +5,7 @@ import subprocess
 import time
 
 #api do bot
-api = '1096480409:AAH6LhyWjRBk4KUFxaDmb46Lr3CG3x0MpzA'
+api = 'sua api do telegram'
 bot = telepot.Bot(api)
 
 # função handle
