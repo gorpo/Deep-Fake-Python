@@ -24,6 +24,7 @@
 - outras lib's ver arquivos ou logs de erro
 - caso preciso subistitua as API's do telegram e Imageur nos arquivos!
 
+
 # Instalações previas das libs que cumprem os requisitos para windows10:
 --> Torch:<br>
 <code>pip install https://download.pytorch.org/whl/cu90/torch-1.1.0-cp37-cp37m-win_amd64.whl</code>
@@ -35,6 +36,12 @@
 <code>pip install opencv-python</code>
 --> Numpy<br>
 <code>pip install numpy</code>
+--> Instalando Cuda 9.0 no windows 10<br>
+<code>https://medium.com/@andersonlentz/instalando-cuda-9-0-no-windows-10-ea7cabd9ad6b</code><br>
+<code>https://towardsdatascience.com/installing-tensorflow-with-cuda-cudnn-and-gpu-support-on-windows-10-60693e46e781</code><br>
+self.gpu_ids = [0] #FIX CPU<br>
+self.gpu_ids = [] #FIX CPU<br>
+
 
 # Lib's adicionais e obrigatórias:
 <p> Precisamos adicionar os arquivos cm.lib, mm.lib e mn.lib dentro da pasta "/checkpoints", para isto basta fazer o download abaixo de cada uma delas, ou caso contrario o script não irá rodar e irá apresentar o seguinte erro:</p>
